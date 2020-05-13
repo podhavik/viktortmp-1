@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Viktor.Providers;
-using Viktor.Models;
+using ViktorDataModel;
 
 namespace Viktor
 {

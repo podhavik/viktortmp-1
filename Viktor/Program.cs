@@ -1,6 +1,8 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using System;
+using System.ServiceModel;
 using System.Windows.Forms;
+using ViktorDataModel;
 
 namespace Viktor
 {

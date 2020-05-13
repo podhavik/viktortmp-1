@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Viktor.Models
+namespace ViktorDataModel
 {
     public class Sranec : BaseEntity
     {

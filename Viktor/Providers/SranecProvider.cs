@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Viktor.Models;
+using ViktorDataModel;
 
 namespace Viktor.Providers
 {

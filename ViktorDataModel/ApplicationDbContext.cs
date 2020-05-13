@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 
-namespace Viktor.Models
+namespace ViktorDataModel
 {
     public class ApplicationDbContext : DbContext
     {
